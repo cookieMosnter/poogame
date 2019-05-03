@@ -4,7 +4,7 @@
 
 void Poo::Init( float in_x,float in_y,float in_vx,float in_vy )
 {
-	assert( initialized == false );
+	
 	x = in_x;
 	y = in_y;
 	vx = in_vx;
